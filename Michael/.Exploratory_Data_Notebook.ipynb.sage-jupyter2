@@ -1,4 +1,4 @@
-{"backend_state":"ready","kernel":"python3-ubuntu","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.8"}},"type":"settings"}
+{"backend_state":"init","kernel":"python3-ubuntu","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.8.8"}},"type":"settings"}
 {"cell_type":"code","exec_count":0,"id":"41a052","input":"tuition.info()","metadata":{"vscode":{"languageId":"plaintext"}},"pos":18,"type":"cell"}
 {"cell_type":"code","exec_count":0,"id":"634060","input":"","pos":69,"type":"cell"}
 {"cell_type":"code","exec_count":1,"id":"ecdf3c","input":"","pos":5,"type":"cell"}
@@ -69,5 +69,5 @@
 {"cell_type":"markdown","id":"fc2c03","input":"## Exploring Our Data <a class=\"anchor\" id=\"Explore\"></a>\n- Here is where we want to inform ourselves on the nitty gritty of what information our data actually holds\n- How much, what type, is there anything missing, what columns do I need & not need, etc. ","pos":10,"type":"cell"}
 {"cell_type":"markdown","id":"fc6b17","input":"We still have a lot of missing data in the column 'room_and_board' and some in the 'make_world_better_place'\n<br><br>\nSince we don't care too much about room_and_board, we'll just drop that column as a whole, but for the other, we will just drop the rows that are missing that data since it is only ~3% of our dataset.","pos":30,"type":"cell"}
 {"cell_type":"markdown","id":"fd307c","input":"Notice: This assumes you divert your entire paycheck to student loans and there is no interest. While this gives a guidline, that does hurt the usefullness, as different areas may allow to divert different amounts. Look out for this type of error in your own work","pos":53,"type":"cell"}
-{"id":0,"time":1656447215064,"type":"user"}
+{"id":0,"time":1656613451921,"type":"user"}
 {"last_load":1656438608964,"type":"file"}
