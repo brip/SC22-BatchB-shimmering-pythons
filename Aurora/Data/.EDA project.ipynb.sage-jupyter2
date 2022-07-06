@@ -1,4 +1,4 @@
-{"backend_state":"running","connection_file":"/projects/4effcd42-8465-43b7-9c63-162fa4ffa93e/.local/share/jupyter/runtime/kernel-f299804f-3484-4607-a0c6-f05f8fbc2ebe.json","kernel":"ds_env","kernel_error":"","kernel_state":"idle","trust":true,"type":"settings"}
+{"backend_state":"init","connection_file":"/projects/4effcd42-8465-43b7-9c63-162fa4ffa93e/.local/share/jupyter/runtime/kernel-f299804f-3484-4607-a0c6-f05f8fbc2ebe.json","kernel":"ds_env","kernel_error":"","kernel_state":"idle","kernel_usage":{"cpu":0,"memory":0},"trust":true,"type":"settings"}
 {"cell_type":"markdown","id":"5d3f25","input":"Get counts of our target class\n","pos":2.625,"type":"cell"}
 {"cell_type":"markdown","id":"66de4c","input":"Get general overview of the numerical features\n","pos":2.25,"type":"cell"}
 {"end":1656615230082,"exec_count":4,"id":"d5859f","input":"data = pd.read_csv('heart_2020_cleaned.csv')","kernel":"ds_env","pos":1,"start":1656615229482,"state":"done","type":"cell"}
@@ -21,5 +21,5 @@
 {"id":"5c984e","input":"","pos":5,"type":"cell"}
 {"id":"ace70f","input":"# categorical_cols = data.columns['a', 'b', 'c', 'd']","pos":2.90625,"type":"cell"}
 {"id":"fa0f67","input":"def binarize_hd(col):\n    col.replace()\n    \ndata[col_name] = data[col_name].apply(lambda x: binarize_hd","pos":2.8828125,"type":"cell"}
-{"id":0,"time":1656623909703,"type":"user"}
+{"id":0,"time":1657128409643,"type":"user"}
 {"last_load":1656613106529,"type":"file"}
