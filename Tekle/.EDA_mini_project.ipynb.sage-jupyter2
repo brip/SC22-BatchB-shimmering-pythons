@@ -86,4 +86,4 @@
 {"cell_type":"raw","id":"1827ce","input":"# This diagram is showing the correlation between culmen depth and body mass. It shows that the Adelie and Chinstrap Penguins have a longer culmen and weigh less, while the Gentoo penguins weigh more and have a shorter culmen. From this we can infer that the Adelie and Chinstrap penguins are more closley related gene wise.\n\n\n","pos":84,"type":"cell"}
 {"cell_type":"raw","id":"a099dc","input":"What do these columns mean?\n\n\n\n\n\n\n","pos":33,"type":"cell"}
 {"id":0,"time":1657141012475,"type":"user"}
-{"last_load":1657141010856,"type":"file"}
+{"last_load":1657213162955,"type":"file"}
