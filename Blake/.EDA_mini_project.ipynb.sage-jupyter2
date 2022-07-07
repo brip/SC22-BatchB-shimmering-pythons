@@ -55,5 +55,5 @@
 {"cell_type":"markdown","id":"f05dbd","input":"**TODO: Can you print the last five rows of the Island and Region columns?** \n\n","pos":25,"type":"cell"}
 {"cell_type":"raw","id":"7c4e99","input":"What do these columns mean?\nthe columns hold each eggs info and the clutch Completion rate.\n\n\n\n\n\n","pos":13,"type":"cell"}
 {"cell_type":"raw","id":"9046e8","input":"Write up some descriptions for your findings here....\n\n\n\n\n","pos":54,"type":"cell"}
-{"id":0,"time":1657137968670,"type":"user"}
-{"last_load":1657137884494,"type":"file"}
+{"id":0,"time":1657226321143,"type":"user"}
+{"last_load":1657226320340,"type":"file"}

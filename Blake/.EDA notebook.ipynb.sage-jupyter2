@@ -52,5 +52,5 @@
 {"cell_type":"code","exec_count":7,"id":"f82fbc","input":"data.hist(column=\"SleepTime\")","output":{"0":{"data":{"text/plain":"array([[<AxesSubplot:title={'center':'SleepTime'}>]], dtype=object)"},"exec_count":7,"output_type":"execute_result"},"1":{"data":{"image/png":"4fbbbc8b2ed2172cce9c7886fcd25511954e5fa8","text/plain":"<Figure size 432x288 with 1 Axes>"},"exec_count":7,"metadata":{"needs_background":"light"},"output_type":"execute_result"}},"pos":6,"type":"cell"}
 {"cell_type":"code","exec_count":8,"id":"a7d4c0","input":"data.hist(column=\"BMI\")","output":{"0":{"data":{"text/plain":"array([[<AxesSubplot:title={'center':'BMI'}>]], dtype=object)"},"exec_count":8,"output_type":"execute_result"},"1":{"data":{"image/png":"45f507501873695ec8ed5368759488e881e61f91","text/plain":"<Figure size 432x288 with 1 Axes>"},"exec_count":8,"metadata":{"needs_background":"light"},"output_type":"execute_result"}},"pos":7,"type":"cell"}
 {"cell_type":"code","exec_count":9,"id":"96b4a8","input":"import plotly.express as px","pos":10,"type":"cell"}
-{"id":0,"time":1657215623437,"type":"user"}
+{"id":0,"time":1657226327777,"type":"user"}
 {"last_load":1657212254271,"type":"file"}

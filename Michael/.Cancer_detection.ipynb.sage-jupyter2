@@ -75,5 +75,5 @@
 {"cell_type":"markdown","id":"fe4df1","input":"### We have split, now we gotta fit!\nNow that are data is preprocessed (all numerical), and split (80/20 train/test) for machine learning, we can create a model to **classify** whether a patient has malignant (1) or benign (0) breast cancer!\n\nThe first model is a classification model called K Nearest Neighbors. You can watch a video on how K Nearest Neighbors works here: https://www.youtube.com/watch?v=0p0o5cmgLdE.\n\nFirst things first, we need to import our model using SKLearn. You can follow the [guide]( https://scikit-learn.org/stable/auto_examples/neighbors/plot_classification.html#sphx-glr-auto-examples-neighbors-plot-classification-py) here to see how this tutorial works.\n","metadata":{"id":"2lWxo646-Fka"},"pos":43,"type":"cell"}
 {"id":"0cc659","input":"","pos":72.5,"type":"cell"}
 {"id":"a3bf12","input":"","pos":72.75,"type":"cell"}
-{"id":0,"time":1657128706645,"type":"user"}
+{"id":0,"time":1657224713081,"type":"user"}
 {"last_load":1657212505682,"type":"file"}
