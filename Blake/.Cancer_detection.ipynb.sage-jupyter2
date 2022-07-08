@@ -69,4 +69,4 @@
 {"cell_type":"markdown","id":"f5b7ba","input":"### Are you ready to perform machine learning? \nDo you think deciding whether a tumor is benign or malignant is classification or regression? Talk with your team for a minute.\n\nEither way, we need to tell our code what our target variable is, and what our input is going to be. <br> **TODO:** Can you do so below?","metadata":{"id":"EvyKXnr27SaE"},"pos":29,"type":"cell"}
 {"cell_type":"markdown","id":"f81b71","input":"**Ok, we've got our dummy variables. What now?** Now we have to pick one and add it to our dataframe -- we also have to delete the old diagnosis column!","metadata":{"id":"YXI5tmDd5CKh"},"pos":21,"type":"cell"}
 {"id":0,"time":1657215983493,"type":"user"}
-{"last_load":1657215982636,"type":"file"}
+{"last_load":1657299478899,"type":"file"}
