@@ -89,4 +89,4 @@
 {"cell_type":"markdown","id":"df50c3","input":"**TODO:** Can you print the outputs with print(y_train) and print(y_test)? What do these 1's and 0's represent?","metadata":{"id":"tY5UwAsS9sCV"},"pos":46,"type":"cell"}
 {"cell_type":"markdown","id":"e9ea8f","input":"### Visualize our data\n\nNow that we've cleaned our data and it is all ready for our model, we should understand some of the relationships. Use your learnings from last week to create two plots -- you can always start with simple [scatter plots](https://plotly.com/python/line-and-scatter/) or maybe a [scatterplot matrix](https://plotly.com/python/splom/). Get creative!\n\n","metadata":{"id":"jhMq9yAj3x78"},"pos":32,"type":"cell"}
 {"id":0,"time":1657303610652,"type":"user"}
-{"last_load":1657303609569,"type":"file"}
+{"last_load":1657569385871,"type":"file"}

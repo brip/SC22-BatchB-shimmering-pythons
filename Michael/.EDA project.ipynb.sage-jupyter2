@@ -34,5 +34,5 @@
 {"cell_type":"code","exec_count":7,"id":"521135","input":"data['AgeCategory'].hist()","output":{"0":{"data":{"text/plain":"<AxesSubplot:>"},"exec_count":7,"output_type":"execute_result"},"1":{"data":{"image/png":"53e45b8bbb9e169c96cac81d08e7329579f37c1b","text/plain":"<Figure size 432x288 with 1 Axes>"},"exec_count":7,"metadata":{"needs_background":"light"},"output_type":"execute_result"}},"pos":6,"type":"cell"}
 {"cell_type":"code","exec_count":8,"id":"f10fd2","input":"data['SleepTime'].hist(bins=4)","output":{"0":{"data":{"text/plain":"<AxesSubplot:>"},"exec_count":8,"output_type":"execute_result"},"1":{"data":{"image/png":"ea26b892b8ede0014bfcb1d15cb070c3b3ef94c5","text/plain":"<Figure size 432x288 with 1 Axes>"},"exec_count":8,"metadata":{"needs_background":"light"},"output_type":"execute_result"}},"pos":7,"type":"cell"}
 {"cell_type":"code","exec_count":9,"id":"d7d661","input":"data.plot.scatter(x = \"MentalHealth\" , y = \"PhysicalHealth\")","output":{"0":{"data":{"text/plain":"<AxesSubplot:xlabel='MentalHealth', ylabel='PhysicalHealth'>"},"exec_count":9,"output_type":"execute_result"},"1":{"data":{"image/png":"9d976e4ba0824d724ba98acc2899209f00c66aba","text/plain":"<Figure size 432x288 with 1 Axes>"},"exec_count":9,"metadata":{"needs_background":"light"},"output_type":"execute_result"}},"pos":8,"type":"cell"}
-{"id":0,"time":1657224668022,"type":"user"}
-{"last_load":1657299332057,"type":"file"}
+{"id":0,"time":1657564504637,"type":"user"}
+{"last_load":1657558726431,"type":"file"}

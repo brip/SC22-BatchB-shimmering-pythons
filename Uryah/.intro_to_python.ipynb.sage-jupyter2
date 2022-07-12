@@ -104,5 +104,5 @@
 {"cell_type":"markdown","id":"efb978","input":"The goal of this notebook is to provide students with knowledge of the fundamentals of python. We will take a more interactive approach than most class room settings and ask the students to do some research on their own then bring their learnings back here to share with the class. ","pos":1,"type":"cell"}
 {"cell_type":"markdown","id":"fbfb4f","input":"Next, we'll take a look at while loops. In general, you can make a while loop do anything that a for loop can do but with slightly different syntax, so if you find youself understanding while loops better than for loops, you can just focus on using while loops. ","pos":39,"type":"cell"}
 {"cell_type":"markdown","id":"fd2d2b","input":"To access a specific item from the list, you would do the following.\n\n","pos":25,"type":"cell"}
-{"id":0,"time":1657142060860,"type":"user"}
-{"last_load":1657141998758,"type":"file"}
+{"id":0,"time":1657573129686,"type":"user"}
+{"last_load":1657561122138,"type":"file"}
